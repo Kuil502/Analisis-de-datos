@@ -56,7 +56,3 @@ Asegúrate de que el archivo CSV esté correctamente formateado con delimitadore
 Para columnas numéricas con comas como separadores de miles, el script maneja esto automáticamente.
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-
-
-Este archivo README en formato `.md` es profesional, claro y conciso, facilitando su lectura y entendimiento por parte de cualquier usuario que necesite utilizar el script.
